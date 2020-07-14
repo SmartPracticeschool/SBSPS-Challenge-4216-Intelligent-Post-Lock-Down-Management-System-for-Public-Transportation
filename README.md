@@ -1,11 +1,12 @@
 # SBSPS-Challenge-4216-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation
 
-# Link to the project: (Drive Link)
+# Drive Link to the project: (All Source Code)
 
 https://drive.google.com/file/d/1ebiH_EV3a6YO-AzZjO8UAqc63jYV6DLk/view?usp=sharing
 
+# Apk of the android app
+1.First unzip the rar file
+2.Go to :CarPool\android\app\build\outputs\apk\release
+3.Copy The apk named CarePool.apk in your mobile and you're ready to go !
 
-1. Run npm install first
-2. Install the required dependencies mentioned in package.json file
-3. In backend folder , install dependencies as mentioned in package.json file
-4. After installing all the dependencies , run react-native run-android or npx react-native run-android
+
